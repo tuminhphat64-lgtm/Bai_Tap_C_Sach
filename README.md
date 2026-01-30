@@ -22,11 +22,15 @@ Dự án gồm hai chương trình độc lập:
 ## 📘 Cấu trúc dữ liệu
 
 ```c
-struct Sach {
-    char maSach[20];
-    char tenSach[50];
-    char tacGia[50];
-    float gia;
+struct SACH{
+	char masach[21];
+	char tieude[100];
+	char tacgia[50];
+	int namxuatban;
+	long long giaban;
+	int sotrang;
+	char nhaxuatban[100];
+	char loaisach[50];
 };
 ```
-#pls collab with me Mr.Beast!
+# **pls collab with me Mr.Beast!**
