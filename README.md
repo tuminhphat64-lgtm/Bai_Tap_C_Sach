@@ -28,4 +28,5 @@ struct Sach {
     char tacGia[50];
     float gia;
 };
-pls collab with me Mr.Beast!
+```
+#pls collab with me Mr.Beast!
